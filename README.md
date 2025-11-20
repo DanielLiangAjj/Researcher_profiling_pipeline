@@ -1,6 +1,3 @@
-# Researcher_profiling_pipeline
------
-
 # Scalable Scientific Interest Profiling Using LLMs
 
 ## Overview

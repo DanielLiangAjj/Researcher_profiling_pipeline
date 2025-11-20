@@ -70,7 +70,8 @@ You can generate a profile by providing a researcher's name and their PubMed pub
 
 If you use this code or methodology in your research, please cite the original paper:
 
-```https://www.sciencedirect.com/science/article/abs/pii/S1532046425001789
+```
+https://www.sciencedirect.com/science/article/abs/pii/S1532046425001789
 ```
 
 

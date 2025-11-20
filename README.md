@@ -17,7 +17,7 @@ By leveraging **GPT-4o-mini**, this system requires user input of researchers' n
 
 ## Methodology
 
-The pipeline operates in three main stages:
+The pipeline operates in two main stages:
 
 1.  **Data Collection:**
 Requires user input of
@@ -49,17 +49,12 @@ pip install openai numpy scikit-learn nltk torch bert-score
 
 ## Usage
 
-### 1\. Configure API Keys
+Please provide three input fields as a key-value dictionary into the pipeline:
 
-Set your OpenAI API key in your environment variables:
+1. OpenAI API Key
+2. Researcher Name
+3. Publication Record (a key-value pair, please see the data/input_sample/Chunhua Weng.json for the detailed format)
 
-```bash
-export OPENAI_API_KEY='your-api-key-here'
-```
-
-### 2\. Generate a Profile
-
-You can generate a profile by providing a researcher's name and their PubMed publication list.
 
 
 

@@ -70,18 +70,11 @@ You can generate a profile by providing a researcher's name and their PubMed pub
 
 If you use this code or methodology in your research, please cite the original paper:
 
-```bibtex
-@article{liang2025scalable,
-  title={Scalable Scientific Interest Profiling Using Large Language Models},
-  author={Liang, Yilun and Zhang, Gongbo and Sun, Edward and Idnay, Betina and Fang, Yilu and Chen, Fangyi and Talat, Casey and Peng, Yifan and Weng, Chunhua},
-  journal={arXiv preprint arXiv:2508.15834},
-  year={2025},
-  url={https://arxiv.org/abs/2508.15834}
-}
+```https://www.sciencedirect.com/science/article/abs/pii/S1532046425001789
 ```
 
 
 
 ## Acknowledgments
 
-[cite\_start]This work was supported by the National Center for Advancing Translational Sciences (NCATS) and the National Library of Medicine (NLM)[cite: 1339, 1340].
+This work was supported by the National Center for Advancing Translational Sciences (NCATS) and the National Library of Medicine (NLM)

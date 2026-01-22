@@ -63,7 +63,19 @@ Please provide three input fields as a key-value dictionary into the pipeline:
 If you use this code or methodology in your research, please cite the original paper:
 
 ```
-https://www.sciencedirect.com/science/article/abs/pii/S1532046425001789
+@article{Liang2025Scalable,
+  title   = {Scalable scientific interest profiling using large language models},
+  author  = {Liang, Y. and Zhang, G. and Sun, E. and Idnay, B. and Fang, Y. and Chen, F. and Ta, C. and Peng, Y. and Weng, C.},
+  journal = {Journal of Biomedical Informatics},
+  year    = {2025},
+  month   = dec,
+  volume  = {172},
+  pages   = {104949},
+  doi     = {10.1016/j.jbi.2025.104949},
+  pmid    = {41177243},
+  pmcid   = {PMC12705189}
+}
+
 ```
 
 

@@ -1,113 +1,110 @@
 mesh_term,tfidf_score,name
-alzheimer disease,0.03142793806579346,Chunhua Weng
-attitude,0.054998891615138566,Chunhua Weng
-attitude to health,0.0471419070986902,Chunhua Weng
-autoimmune diseases,0.01571396903289673,Chunhua Weng
-bacterial infections,0.01571396903289673,Chunhua Weng
-bacterial infections and mycoses,0.01571396903289673,Chunhua Weng
-behavior,0.40070621033886666,Chunhua Weng
-behavior and behavior mechanisms,0.43999113292110853,Chunhua Weng
-behavioral disciplines and activities,0.2985654116250379,Chunhua Weng
-behavioral sciences,0.2907084271085896,Chunhua Weng
-body weight,0.03142793806579346,Chunhua Weng
-brain diseases,0.03142793806579346,Chunhua Weng
-breast diseases,0.0235709535493451,Chunhua Weng
-breast neoplasms,0.0235709535493451,Chunhua Weng
-cardiovascular diseases,0.0471419070986902,Chunhua Weng
-central nervous system diseases,0.03142793806579346,Chunhua Weng
-chemically-induced disorders,0.01571396903289673,Chunhua Weng
-chronic disease,0.01571396903289673,Chunhua Weng
-clinical medicine,0.07856984516448366,Chunhua Weng
-colonic diseases,0.01571396903289673,Chunhua Weng
-colorectal neoplasms,0.01571396903289673,Chunhua Weng
-cooperative behavior,0.0471419070986902,Chunhua Weng
-coronaviridae infections,0.12571175226317385,Chunhua Weng
-coronavirus infections,0.12571175226317385,Chunhua Weng
-covid-19,0.12571175226317385,Chunhua Weng
-dementia,0.03142793806579346,Chunhua Weng
-dermatology,0.01571396903289673,Chunhua Weng
-diabetes complications,0.01571396903289673,Chunhua Weng
-diabetes mellitus,0.10999778323027713,Chunhua Weng
-"diabetes mellitus, type 1",0.01571396903289673,Chunhua Weng
-"diabetes mellitus, type 2",0.054998891615138566,Chunhua Weng
-digestive system diseases,0.03142793806579346,Chunhua Weng
-digestive system neoplasms,0.0235709535493451,Chunhua Weng
-disease,0.01571396903289673,Chunhua Weng
-disease attributes,0.08642682968093203,Chunhua Weng
-endocrine gland neoplasms,0.01571396903289673,Chunhua Weng
-endocrine system diseases,0.12571175226317385,Chunhua Weng
-female urogenital diseases,0.03928492258224183,Chunhua Weng
-female urogenital diseases and pregnancy complications,0.03928492258224183,Chunhua Weng
-forensic medicine,0.01571396903289673,Chunhua Weng
-gastrointestinal diseases,0.01571396903289673,Chunhua Weng
-gastrointestinal neoplasms,0.01571396903289673,Chunhua Weng
-genital diseases,0.0235709535493451,Chunhua Weng
-"genital diseases, male",0.01571396903289673,Chunhua Weng
-glucose metabolism disorders,0.10999778323027713,Chunhua Weng
-group processes,0.054998891615138566,Chunhua Weng
-health behavior,0.01571396903289673,Chunhua Weng
-"health knowledge, attitudes, practice",0.03142793806579346,Chunhua Weng
-heart diseases,0.01571396903289673,Chunhua Weng
-hypertension,0.0235709535493451,Chunhua Weng
-immune system diseases,0.03142793806579346,Chunhua Weng
-infections,0.15713969032896732,Chunhua Weng
-internal medicine,0.01571396903289673,Chunhua Weng
-interpersonal relations,0.0471419070986902,Chunhua Weng
-interprofessional relations,0.03142793806579346,Chunhua Weng
-intestinal diseases,0.01571396903289673,Chunhua Weng
-intestinal neoplasms,0.01571396903289673,Chunhua Weng
-kidney,0.0235709535493451,Chunhua Weng
-kidney diseases,0.03142793806579346,Chunhua Weng
-kidney tubules,0.01571396903289673,Chunhua Weng
-lung diseases,0.13356873677962222,Chunhua Weng
-male urogenital diseases,0.0471419070986902,Chunhua Weng
-medical oncology,0.01571396903289673,Chunhua Weng
-mental disorders,0.054998891615138566,Chunhua Weng
-metabolic diseases,0.10999778323027713,Chunhua Weng
-molecular medicine,0.03142793806579346,Chunhua Weng
-myocardial ischemia,0.01571396903289673,Chunhua Weng
-nausea,0.01571396903289673,Chunhua Weng
-neoplasms,0.14928270581251896,Chunhua Weng
-neoplasms by site,0.06285587613158693,Chunhua Weng
-nephrons,0.0235709535493451,Chunhua Weng
-nervous system diseases,0.0471419070986902,Chunhua Weng
-neurocognitive disorders,0.03142793806579346,Chunhua Weng
-neurodegenerative diseases,0.03142793806579346,Chunhua Weng
-nidovirales infections,0.12571175226317385,Chunhua Weng
-nutrition disorders,0.03142793806579346,Chunhua Weng
-nutritional and metabolic diseases,0.13356873677962222,Chunhua Weng
-obesity,0.03142793806579346,Chunhua Weng
-overnutrition,0.03142793806579346,Chunhua Weng
-overweight,0.03142793806579346,Chunhua Weng
-pathologic processes,0.1414257212960706,Chunhua Weng
-"pathological conditions, signs and symptoms",0.18071064387831243,Chunhua Weng
-patient acceptance of health care,0.01571396903289673,Chunhua Weng
-pneumonia,0.12571175226317385,Chunhua Weng
-"pneumonia, viral",0.12571175226317385,Chunhua Weng
-postoperative complications,0.01571396903289673,Chunhua Weng
-prostatic diseases,0.01571396903289673,Chunhua Weng
-psychiatry,0.01571396903289673,Chunhua Weng
-psychology,0.13356873677962222,Chunhua Weng
-"psychology, social",0.10214079871382876,Chunhua Weng
-rare diseases,0.01571396903289673,Chunhua Weng
-rectal diseases,0.01571396903289673,Chunhua Weng
-renal insufficiency,0.01571396903289673,Chunhua Weng
-"renal insufficiency, chronic",0.01571396903289673,Chunhua Weng
-respiratory tract diseases,0.13356873677962222,Chunhua Weng
-respiratory tract infections,0.12571175226317385,Chunhua Weng
-rna virus infections,0.13356873677962222,Chunhua Weng
-signs and symptoms,0.0471419070986902,Chunhua Weng
-"signs and symptoms, digestive",0.01571396903289673,Chunhua Weng
-skin and connective tissue diseases,0.0471419070986902,Chunhua Weng
-skin diseases,0.0471419070986902,Chunhua Weng
-social behavior,0.0471419070986902,Chunhua Weng
-tauopathies,0.03142793806579346,Chunhua Weng
-treatment adherence and compliance,0.01571396903289673,Chunhua Weng
-trust,0.01571396903289673,Chunhua Weng
-urinary tract,0.0235709535493451,Chunhua Weng
-urogenital diseases,0.054998891615138566,Chunhua Weng
-urogenital system,0.03142793806579346,Chunhua Weng
-urologic diseases,0.03142793806579346,Chunhua Weng
-vascular diseases,0.03142793806579346,Chunhua Weng
-virus diseases,0.13356873677962222,Chunhua Weng
-vomiting,0.01571396903289673,Chunhua Weng
+alzheimer disease,0.03148240256576113,Chunhua Weng
+attitude,0.05509420449008198,Chunhua Weng
+autoimmune diseases,0.015741201282880566,Chunhua Weng
+bacterial infections,0.015741201282880566,Chunhua Weng
+bacterial infections and mycoses,0.015741201282880566,Chunhua Weng
+behavior,0.40140063271345444,Chunhua Weng
+behavior and behavior mechanisms,0.44075363592065586,Chunhua Weng
+behavioral disciplines and activities,0.29908282437473077,Chunhua Weng
+behavioral sciences,0.2912122237332905,Chunhua Weng
+body weight,0.03148240256576113,Chunhua Weng
+brain diseases,0.03148240256576113,Chunhua Weng
+breast diseases,0.02361180192432085,Chunhua Weng
+breast neoplasms,0.02361180192432085,Chunhua Weng
+cardiovascular diseases,0.0472236038486417,Chunhua Weng
+central nervous system diseases,0.03148240256576113,Chunhua Weng
+chemically-induced disorders,0.015741201282880566,Chunhua Weng
+chronic disease,0.015741201282880566,Chunhua Weng
+clinical medicine,0.07870600641440284,Chunhua Weng
+colonic diseases,0.015741201282880566,Chunhua Weng
+colorectal neoplasms,0.015741201282880566,Chunhua Weng
+cooperative behavior,0.0472236038486417,Chunhua Weng
+coronaviridae infections,0.12592961026304453,Chunhua Weng
+coronavirus infections,0.12592961026304453,Chunhua Weng
+covid-19,0.12592961026304453,Chunhua Weng
+dementia,0.03148240256576113,Chunhua Weng
+dermatology,0.015741201282880566,Chunhua Weng
+diabetes complications,0.015741201282880566,Chunhua Weng
+diabetes mellitus,0.11018840898016397,Chunhua Weng
+"diabetes mellitus, type 1",0.015741201282880566,Chunhua Weng
+"diabetes mellitus, type 2",0.05509420449008198,Chunhua Weng
+digestive system diseases,0.03148240256576113,Chunhua Weng
+digestive system neoplasms,0.02361180192432085,Chunhua Weng
+disease,0.015741201282880566,Chunhua Weng
+disease attributes,0.08657660705584312,Chunhua Weng
+endocrine gland neoplasms,0.015741201282880566,Chunhua Weng
+endocrine system diseases,0.12592961026304453,Chunhua Weng
+female urogenital diseases,0.03935300320720142,Chunhua Weng
+female urogenital diseases and pregnancy complications,0.03935300320720142,Chunhua Weng
+forensic medicine,0.015741201282880566,Chunhua Weng
+forensic psychiatry,0.015741201282880566,Chunhua Weng
+gastrointestinal diseases,0.015741201282880566,Chunhua Weng
+gastrointestinal neoplasms,0.015741201282880566,Chunhua Weng
+genital diseases,0.02361180192432085,Chunhua Weng
+"genital diseases, male",0.015741201282880566,Chunhua Weng
+glucose metabolism disorders,0.11018840898016397,Chunhua Weng
+group processes,0.05509420449008198,Chunhua Weng
+health behavior,0.015741201282880566,Chunhua Weng
+heart diseases,0.015741201282880566,Chunhua Weng
+hypertension,0.02361180192432085,Chunhua Weng
+immune system diseases,0.03148240256576113,Chunhua Weng
+infections,0.15741201282880568,Chunhua Weng
+internal medicine,0.015741201282880566,Chunhua Weng
+interpersonal relations,0.0472236038486417,Chunhua Weng
+interprofessional relations,0.03148240256576113,Chunhua Weng
+intestinal diseases,0.015741201282880566,Chunhua Weng
+intestinal neoplasms,0.015741201282880566,Chunhua Weng
+kidney,0.02361180192432085,Chunhua Weng
+kidney diseases,0.03148240256576113,Chunhua Weng
+kidney tubules,0.015741201282880566,Chunhua Weng
+lung diseases,0.13380021090448482,Chunhua Weng
+male urogenital diseases,0.0472236038486417,Chunhua Weng
+medical oncology,0.015741201282880566,Chunhua Weng
+mental disorders,0.05509420449008198,Chunhua Weng
+metabolic diseases,0.11018840898016397,Chunhua Weng
+molecular medicine,0.03148240256576113,Chunhua Weng
+myocardial ischemia,0.015741201282880566,Chunhua Weng
+nausea,0.015741201282880566,Chunhua Weng
+neoplasms,0.14954141218736539,Chunhua Weng
+neoplasms by site,0.06296480513152226,Chunhua Weng
+nephrons,0.02361180192432085,Chunhua Weng
+nervous system diseases,0.0472236038486417,Chunhua Weng
+neurocognitive disorders,0.03148240256576113,Chunhua Weng
+neurodegenerative diseases,0.03148240256576113,Chunhua Weng
+nidovirales infections,0.12592961026304453,Chunhua Weng
+nutrition disorders,0.03148240256576113,Chunhua Weng
+nutritional and metabolic diseases,0.13380021090448482,Chunhua Weng
+obesity,0.03148240256576113,Chunhua Weng
+overnutrition,0.03148240256576113,Chunhua Weng
+overweight,0.03148240256576113,Chunhua Weng
+pathologic processes,0.1416708115459251,Chunhua Weng
+"pathological conditions, signs and symptoms",0.1810238147531265,Chunhua Weng
+pneumonia,0.12592961026304453,Chunhua Weng
+"pneumonia, viral",0.12592961026304453,Chunhua Weng
+postoperative complications,0.015741201282880566,Chunhua Weng
+prostatic diseases,0.015741201282880566,Chunhua Weng
+psychiatry,0.015741201282880566,Chunhua Weng
+psychology,0.13380021090448482,Chunhua Weng
+"psychology, social",0.10231780833872368,Chunhua Weng
+rare diseases,0.015741201282880566,Chunhua Weng
+rectal diseases,0.015741201282880566,Chunhua Weng
+renal insufficiency,0.015741201282880566,Chunhua Weng
+"renal insufficiency, chronic",0.015741201282880566,Chunhua Weng
+respiratory tract diseases,0.13380021090448482,Chunhua Weng
+respiratory tract infections,0.12592961026304453,Chunhua Weng
+rna virus infections,0.13380021090448482,Chunhua Weng
+signs and symptoms,0.0472236038486417,Chunhua Weng
+"signs and symptoms, digestive",0.015741201282880566,Chunhua Weng
+skin and connective tissue diseases,0.0472236038486417,Chunhua Weng
+skin diseases,0.0472236038486417,Chunhua Weng
+social behavior,0.0472236038486417,Chunhua Weng
+tauopathies,0.03148240256576113,Chunhua Weng
+trust,0.015741201282880566,Chunhua Weng
+urinary tract,0.02361180192432085,Chunhua Weng
+urogenital diseases,0.05509420449008198,Chunhua Weng
+urogenital system,0.03148240256576113,Chunhua Weng
+urologic diseases,0.03148240256576113,Chunhua Weng
+vascular diseases,0.03148240256576113,Chunhua Weng
+virus diseases,0.13380021090448482,Chunhua Weng
+vomiting,0.015741201282880566,Chunhua Weng

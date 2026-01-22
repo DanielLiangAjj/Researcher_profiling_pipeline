@@ -1,0 +1,419 @@
+mesh_term,tfidf_score,name
+3' untranslated regions,0.003219068032675336,Chunhua Weng
+abstracting and indexing,0.003219068032675336,Chunhua Weng
+academic medical centers,0.00804767008168834,Chunhua Weng
+access to information,0.003219068032675336,Chunhua Weng
+adolescent,0.01448580614703901,Chunhua Weng
+adult,0.0450669524574547,Chunhua Weng
+age groups,0.04667648647379237,Chunhua Weng
+aged,0.020923942212389683,Chunhua Weng
+"aged, 80 and over",0.006438136065350672,Chunhua Weng
+algorithms,0.13198178933968877,Chunhua Weng
+"amino acids, peptides, and proteins",0.012876272130701343,Chunhua Weng
+analysis of variance,0.004828602049013003,Chunhua Weng
+angiogenesis,0.004828602049013003,Chunhua Weng
+animal population groups,0.004828602049013003,Chunhua Weng
+"animals, inbred strains",0.003219068032675336,Chunhua Weng
+"animals, laboratory",0.003219068032675336,Chunhua Weng
+anthropometry,0.006438136065350672,Chunhua Weng
+antiemetics,0.003219068032675336,Chunhua Weng
+antineoplastic agents,0.004828602049013003,Chunhua Weng
+antisense elements (genetics),0.004828602049013003,Chunhua Weng
+appointments and schedules,0.004828602049013003,Chunhua Weng
+artificial intelligence,0.10622924507828607,Chunhua Weng
+attitude to health,0.009657204098026007,Chunhua Weng
+authorship,0.003219068032675336,Chunhua Weng
+autonomic agents,0.003219068032675336,Chunhua Weng
+base sequence,0.003219068032675336,Chunhua Weng
+betacoronavirus,0.009657204098026007,Chunhua Weng
+bias,0.004828602049013003,Chunhua Weng
+bibliographies as topic,0.006438136065350672,Chunhua Weng
+bibliometrics,0.004828602049013003,Chunhua Weng
+biochemical phenomena,0.00804767008168834,Chunhua Weng
+biochemistry,0.00804767008168834,Chunhua Weng
+biological factors,0.006438136065350672,Chunhua Weng
+biological ontologies,0.009657204098026007,Chunhua Weng
+biological phenomena,0.012876272130701343,Chunhua Weng
+biological science disciplines,0.027362078277740353,Chunhua Weng
+biology,0.025752544261402686,Chunhua Weng
+biomarkers,0.003219068032675336,Chunhua Weng
+biometry,0.006438136065350672,Chunhua Weng
+blood glucose,0.003219068032675336,Chunhua Weng
+blood proteins,0.004828602049013003,Chunhua Weng
+body constitution,0.01448580614703901,Chunhua Weng
+body size,0.006438136065350672,Chunhua Weng
+body weights and measures,0.006438136065350672,Chunhua Weng
+carbohydrates,0.009657204098026007,Chunhua Weng
+cardiovascular physiological phenomena,0.004828602049013003,Chunhua Weng
+carrier proteins,0.004828602049013003,Chunhua Weng
+case-control studies,0.019314408196052013,Chunhua Weng
+causality,0.009657204098026007,Chunhua Weng
+cell growth processes,0.003219068032675336,Chunhua Weng
+cell line,0.00804767008168834,Chunhua Weng
+"cell line, transformed",0.003219068032675336,Chunhua Weng
+"cell line, tumor",0.004828602049013003,Chunhua Weng
+cell movement,0.003219068032675336,Chunhua Weng
+cell physiological phenomena,0.00804767008168834,Chunhua Weng
+cell proliferation,0.003219068032675336,Chunhua Weng
+cells,0.009657204098026007,Chunhua Weng
+"cells, cultured",0.00804767008168834,Chunhua Weng
+central nervous system agents,0.003219068032675336,Chunhua Weng
+chemical actions and uses,0.01448580614703901,Chunhua Weng
+chemical phenomena,0.00804767008168834,Chunhua Weng
+chemistry,0.00804767008168834,Chunhua Weng
+child,0.009657204098026007,Chunhua Weng
+"child, preschool",0.004828602049013003,Chunhua Weng
+circulatory and respiratory physiological phenomena,0.004828602049013003,Chunhua Weng
+civil rights,0.004828602049013003,Chunhua Weng
+clinical coding,0.003219068032675336,Chunhua Weng
+clinical laboratory techniques,0.00804767008168834,Chunhua Weng
+clinical protocols,0.009657204098026007,Chunhua Weng
+clinical studies as topic,0.0901339049149094,Chunhua Weng
+clinical trials as topic,0.0853053028658964,Chunhua Weng
+cluster analysis,0.009657204098026007,Chunhua Weng
+cognition,0.00804767008168834,Chunhua Weng
+cohort studies,0.02253347622872735,Chunhua Weng
+communication,0.07564809876787039,Chunhua Weng
+communications media,0.012876272130701343,Chunhua Weng
+community health services,0.003219068032675336,Chunhua Weng
+community participation,0.003219068032675336,Chunhua Weng
+comparative effectiveness research,0.003219068032675336,Chunhua Weng
+comprehension,0.003219068032675336,Chunhua Weng
+comprehensive health care,0.004828602049013003,Chunhua Weng
+computational biology,0.020923942212389683,Chunhua Weng
+computer communication networks,0.011266738114363675,Chunhua Weng
+computer simulation,0.004828602049013003,Chunhua Weng
+computer systems,0.017704874179714346,Chunhua Weng
+computing methodologies,0.16256293565010446,Chunhua Weng
+confidentiality,0.003219068032675336,Chunhua Weng
+consumer organizations,0.003219068032675336,Chunhua Weng
+continuity of patient care,0.003219068032675336,Chunhua Weng
+controlled clinical trials as topic,0.01609534016337668,Chunhua Weng
+coronaviridae,0.009657204098026007,Chunhua Weng
+coronavirus,0.009657204098026007,Chunhua Weng
+criminology,0.003219068032675336,Chunhua Weng
+data accuracy,0.006438136065350672,Chunhua Weng
+data analysis,0.003219068032675336,Chunhua Weng
+data collection,0.12071505122532508,Chunhua Weng
+data management,0.003219068032675336,Chunhua Weng
+data mining,0.02253347622872735,Chunhua Weng
+database management systems,0.003219068032675336,Chunhua Weng
+databases as topic,0.06277182663716904,Chunhua Weng
+"databases, bibliographic",0.012876272130701343,Chunhua Weng
+"databases, factual",0.04345741844111703,Chunhua Weng
+decision making,0.003219068032675336,Chunhua Weng
+"decision support systems, clinical",0.009657204098026007,Chunhua Weng
+decision support techniques,0.003219068032675336,Chunhua Weng
+delivery of health care,0.03219068032675336,Chunhua Weng
+demography,0.01609534016337668,Chunhua Weng
+diagnosis,0.03701928237576636,Chunhua Weng
+diagnostic services,0.006438136065350672,Chunhua Weng
+diagnostic techniques and procedures,0.025752544261402686,Chunhua Weng
+diagnostic uses of chemicals,0.004828602049013003,Chunhua Weng
+disease outbreaks,0.006438136065350672,Chunhua Weng
+disease susceptibility,0.00804767008168834,Chunhua Weng
+dna,0.003219068032675336,Chunhua Weng
+"dna, intergenic",0.003219068032675336,Chunhua Weng
+documentation,0.056333690571818376,Chunhua Weng
+ecological and environmental phenomena,0.012876272130701343,Chunhua Weng
+economics,0.004828602049013003,Chunhua Weng
+education,0.01609534016337668,Chunhua Weng
+"education, nonprofessional",0.003219068032675336,Chunhua Weng
+educational measurement,0.004828602049013003,Chunhua Weng
+efficiency,0.003219068032675336,Chunhua Weng
+"efficiency, organizational",0.003219068032675336,Chunhua Weng
+electronic health records,0.08852437089857174,Chunhua Weng
+eligibility determination,0.038628816392104026,Chunhua Weng
+endonucleases,0.003219068032675336,Chunhua Weng
+endoribonucleases,0.003219068032675336,Chunhua Weng
+engineering,0.004828602049013003,Chunhua Weng
+environment,0.012876272130701343,Chunhua Weng
+environment and public health,0.22694429630361115,Chunhua Weng
+enzymes,0.006438136065350672,Chunhua Weng
+enzymes and coenzymes,0.006438136065350672,Chunhua Weng
+epidemics,0.006438136065350672,Chunhua Weng
+epidemiologic factors,0.019314408196052013,Chunhua Weng
+epidemiologic measurements,0.025752544261402686,Chunhua Weng
+epidemiologic methods,0.2156775581892475,Chunhua Weng
+epidemiologic research design,0.03380021434309102,Chunhua Weng
+epidemiologic studies,0.027362078277740353,Chunhua Weng
+epidemiologic study characteristics,0.12232458524166276,Chunhua Weng
+epidemiology,0.006438136065350672,Chunhua Weng
+epithelial cells,0.004828602049013003,Chunhua Weng
+ergonomics,0.004828602049013003,Chunhua Weng
+esterases,0.003219068032675336,Chunhua Weng
+ethnicity,0.003219068032675336,Chunhua Weng
+evaluation studies as topic,0.03380021434309102,Chunhua Weng
+evidence-based medicine,0.009657204098026007,Chunhua Weng
+evidence-based practice,0.009657204098026007,Chunhua Weng
+feasibility studies,0.003219068032675336,Chunhua Weng
+female,0.0450669524574547,Chunhua Weng
+forensic sciences,0.003219068032675336,Chunhua Weng
+forms and records control,0.004828602049013003,Chunhua Weng
+gastrointestinal agents,0.003219068032675336,Chunhua Weng
+gene components,0.003219068032675336,Chunhua Weng
+genes,0.00804767008168834,Chunhua Weng
+genetic association studies,0.006438136065350672,Chunhua Weng
+genetic phenomena,0.040238350408441696,Chunhua Weng
+genetic predisposition to disease,0.00804767008168834,Chunhua Weng
+genetic services,0.006438136065350672,Chunhua Weng
+genetic structures,0.01448580614703901,Chunhua Weng
+genetic techniques,0.017704874179714346,Chunhua Weng
+genetic testing,0.006438136065350672,Chunhua Weng
+genetic variation,0.009657204098026007,Chunhua Weng
+genetics,0.019314408196052013,Chunhua Weng
+genome,0.012876272130701343,Chunhua Weng
+genome components,0.00804767008168834,Chunhua Weng
+"genome, human",0.004828602049013003,Chunhua Weng
+genome-wide association study,0.003219068032675336,Chunhua Weng
+genomics,0.01448580614703901,Chunhua Weng
+genotype,0.011266738114363675,Chunhua Weng
+glucose,0.004828602049013003,Chunhua Weng
+glycoconjugates,0.003219068032675336,Chunhua Weng
+glycoproteins,0.003219068032675336,Chunhua Weng
+glycosides,0.003219068032675336,Chunhua Weng
+growth,0.009657204098026007,Chunhua Weng
+growth and development,0.009657204098026007,Chunhua Weng
+health,0.2253347622872735,Chunhua Weng
+health care economics and organizations,0.03219068032675336,Chunhua Weng
+health care evaluation mechanisms,0.21728709220558515,Chunhua Weng
+"health care facilities, manpower, and services",0.03540974835942869,Chunhua Weng
+"health care quality, access, and evaluation",0.23177289835262416,Chunhua Weng
+health disparate minority and vulnerable populations,0.003219068032675336,Chunhua Weng
+health education,0.003219068032675336,Chunhua Weng
+health facilities,0.017704874179714346,Chunhua Weng
+"health knowledge, attitudes, practice",0.006438136065350672,Chunhua Weng
+health personnel,0.004828602049013003,Chunhua Weng
+health planning,0.00804767008168834,Chunhua Weng
+health services,0.019314408196052013,Chunhua Weng
+health services administration,0.24464917048332552,Chunhua Weng
+health services research,0.00804767008168834,Chunhua Weng
+health status,0.00804767008168834,Chunhua Weng
+health surveys,0.004828602049013003,Chunhua Weng
+hexoses,0.004828602049013003,Chunhua Weng
+hispanic or latino,0.003219068032675336,Chunhua Weng
+hospitalization,0.003219068032675336,Chunhua Weng
+hospitals,0.004828602049013003,Chunhua Weng
+human rights,0.00804767008168834,Chunhua Weng
+humanities,0.006438136065350672,Chunhua Weng
+hydrolases,0.006438136065350672,Chunhua Weng
+immune system phenomena,0.003219068032675336,Chunhua Weng
+immunoproteins,0.003219068032675336,Chunhua Weng
+infant,0.003219068032675336,Chunhua Weng
+informatics,0.2108489561402345,Chunhua Weng
+information dissemination,0.004828602049013003,Chunhua Weng
+information management,0.12715318729067576,Chunhua Weng
+information science,0.2800589188427542,Chunhua Weng
+information services,0.06116229262083138,Chunhua Weng
+information sources,0.06760042868618205,Chunhua Weng
+information storage and retrieval,0.11427691515997442,Chunhua Weng
+information systems,0.1545152655684161,Chunhua Weng
+informed consent,0.003219068032675336,Chunhua Weng
+inorganic chemicals,0.003219068032675336,Chunhua Weng
+interdisciplinary communication,0.004828602049013003,Chunhua Weng
+internet,0.011266738114363675,Chunhua Weng
+intracellular signaling peptides and proteins,0.004828602049013003,Chunhua Weng
+journal impact factor,0.003219068032675336,Chunhua Weng
+jurisprudence,0.004828602049013003,Chunhua Weng
+knowledge,0.003219068032675336,Chunhua Weng
+knowledge bases,0.01609534016337668,Chunhua Weng
+laboratory chemicals,0.004828602049013003,Chunhua Weng
+language,0.0498955545064677,Chunhua Weng
+language arts,0.011266738114363675,Chunhua Weng
+learning,0.003219068032675336,Chunhua Weng
+legislation as topic,0.011266738114363675,Chunhua Weng
+linguistics,0.03540974835942869,Chunhua Weng
+locomotion,0.003219068032675336,Chunhua Weng
+logistic models,0.004828602049013003,Chunhua Weng
+machine learning,0.012876272130701343,Chunhua Weng
+male,0.04345741844111703,Chunhua Weng
+management audit,0.003219068032675336,Chunhua Weng
+management information systems,0.004828602049013003,Chunhua Weng
+mathematical concepts,0.1448580614703901,Chunhua Weng
+mathematics,0.05150508852280537,Chunhua Weng
+medical informatics,0.20441082007488381,Chunhua Weng
+medical informatics applications,0.19153454794418248,Chunhua Weng
+medical informatics computing,0.004828602049013003,Chunhua Weng
+medical record linkage,0.003219068032675336,Chunhua Weng
+medical records,0.0949625069639224,Chunhua Weng
+"medical records systems, computerized",0.09174343893124706,Chunhua Weng
+medical subject headings,0.003219068032675336,Chunhua Weng
+medlars,0.003219068032675336,Chunhua Weng
+medline,0.003219068032675336,Chunhua Weng
+mental processes,0.01448580614703901,Chunhua Weng
+metabolism,0.003219068032675336,Chunhua Weng
+mice,0.006438136065350672,Chunhua Weng
+"mice, inbred c57bl",0.003219068032675336,Chunhua Weng
+"mice, inbred strains",0.003219068032675336,Chunhua Weng
+microarray analysis,0.003219068032675336,Chunhua Weng
+microchip analytical procedures,0.003219068032675336,Chunhua Weng
+micrornas,0.004828602049013003,Chunhua Weng
+middle aged,0.027362078277740353,Chunhua Weng
+"models, biological",0.004828602049013003,Chunhua Weng
+"models, statistical",0.00804767008168834,Chunhua Weng
+"models, theoretical",0.020923942212389683,Chunhua Weng
+molecular biology,0.006438136065350672,Chunhua Weng
+molecular epidemiology,0.004828602049013003,Chunhua Weng
+molecular probe techniques,0.004828602049013003,Chunhua Weng
+molecular probes,0.004828602049013003,Chunhua Weng
+molecular sequence data,0.003219068032675336,Chunhua Weng
+molecular structure,0.004828602049013003,Chunhua Weng
+monosaccharides,0.004828602049013003,Chunhua Weng
+movement,0.003219068032675336,Chunhua Weng
+multivariate analysis,0.003219068032675336,Chunhua Weng
+muridae,0.006438136065350672,Chunhua Weng
+murinae,0.006438136065350672,Chunhua Weng
+musculoskeletal and neural physiological phenomena,0.004828602049013003,Chunhua Weng
+musculoskeletal physiological phenomena,0.004828602049013003,Chunhua Weng
+mutation,0.003219068032675336,Chunhua Weng
+natural language processing,0.07081949671885739,Chunhua Weng
+needs assessment,0.004828602049013003,Chunhua Weng
+"neovascularization, physiologic",0.003219068032675336,Chunhua Weng
+"neural networks, computer",0.006438136065350672,Chunhua Weng
+nidovirales,0.009657204098026007,Chunhua Weng
+non-medical public and private facilities,0.006438136065350672,Chunhua Weng
+north american people,0.003219068032675336,Chunhua Weng
+nucleic acid hybridization,0.003219068032675336,Chunhua Weng
+nucleic acid probes,0.004828602049013003,Chunhua Weng
+nucleic acids,0.004828602049013003,Chunhua Weng
+"nucleic acids, nucleotides, and nucleosides",0.004828602049013003,Chunhua Weng
+nutrition surveys,0.004828602049013003,Chunhua Weng
+observational studies as topic,0.003219068032675336,Chunhua Weng
+occupational groups,0.017704874179714346,Chunhua Weng
+office management,0.004828602049013003,Chunhua Weng
+oligonucleotide array sequence analysis,0.003219068032675336,Chunhua Weng
+online systems,0.012876272130701343,Chunhua Weng
+organization and administration,0.14646759548672778,Chunhua Weng
+organizations,0.00804767008168834,Chunhua Weng
+"outcome and process assessment, health care",0.00804767008168834,Chunhua Weng
+"outcome assessment, health care",0.00804767008168834,Chunhua Weng
+pandemics,0.006438136065350672,Chunhua Weng
+patient acceptance of health care,0.003219068032675336,Chunhua Weng
+patient care,0.00804767008168834,Chunhua Weng
+patient care management,0.08208623483322106,Chunhua Weng
+patient care team,0.003219068032675336,Chunhua Weng
+patient participation,0.003219068032675336,Chunhua Weng
+patient rights,0.004828602049013003,Chunhua Weng
+patient selection,0.0498955545064677,Chunhua Weng
+patients,0.004828602049013003,Chunhua Weng
+"pattern recognition, automated",0.006438136065350672,Chunhua Weng
+peer review,0.006438136065350672,Chunhua Weng
+"peer review, research",0.004828602049013003,Chunhua Weng
+peptides,0.006438136065350672,Chunhua Weng
+periodicals as topic,0.003219068032675336,Chunhua Weng
+peripheral nervous system agents,0.003219068032675336,Chunhua Weng
+pharmacologic actions,0.012876272130701343,Chunhua Weng
+pharmacological and toxicological phenomena,0.003219068032675336,Chunhua Weng
+phenotype,0.025752544261402686,Chunhua Weng
+philosophy,0.003219068032675336,Chunhua Weng
+"physical appearance, body",0.006438136065350672,Chunhua Weng
+physical examination,0.01448580614703901,Chunhua Weng
+physical phenomena,0.004828602049013003,Chunhua Weng
+physiological effects of drugs,0.004828602049013003,Chunhua Weng
+physiological phenomena,0.024143010245065016,Chunhua Weng
+pilot projects,0.004828602049013003,Chunhua Weng
+"polymorphism, genetic",0.004828602049013003,Chunhua Weng
+"polymorphism, single nucleotide",0.004828602049013003,Chunhua Weng
+population characteristics,0.2253347622872735,Chunhua Weng
+population groups,0.003219068032675336,Chunhua Weng
+"population groups, us",0.003219068032675336,Chunhua Weng
+positive-strand rna viruses,0.009657204098026007,Chunhua Weng
+practice management,0.004828602049013003,Chunhua Weng
+precision medicine,0.006438136065350672,Chunhua Weng
+predictive value of tests,0.004828602049013003,Chunhua Weng
+pregnancy,0.004828602049013003,Chunhua Weng
+preventive health services,0.00804767008168834,Chunhua Weng
+primary health care,0.004828602049013003,Chunhua Weng
+privacy,0.004828602049013003,Chunhua Weng
+probability,0.01448580614703901,Chunhua Weng
+"product surveillance, postmarketing",0.003219068032675336,Chunhua Weng
+professional competence,0.004828602049013003,Chunhua Weng
+professional practice,0.006438136065350672,Chunhua Weng
+prognosis,0.00804767008168834,Chunhua Weng
+program evaluation,0.003219068032675336,Chunhua Weng
+programming languages,0.003219068032675336,Chunhua Weng
+prospective studies,0.004828602049013003,Chunhua Weng
+proteins,0.012876272130701343,Chunhua Weng
+psychological phenomena,0.020923942212389683,Chunhua Weng
+"psychology, applied",0.011266738114363675,Chunhua Weng
+"psychology, educational",0.003219068032675336,Chunhua Weng
+"psychology, industrial",0.004828602049013003,Chunhua Weng
+public health,0.2253347622872735,Chunhua Weng
+public health practice,0.003219068032675336,Chunhua Weng
+publications,0.012876272130701343,Chunhua Weng
+publishing,0.009657204098026007,Chunhua Weng
+pubmed,0.012876272130701343,Chunhua Weng
+"quality assurance, health care",0.006438136065350672,Chunhua Weng
+quality control,0.003219068032675336,Chunhua Weng
+quality of health care,0.22211569425459815,Chunhua Weng
+randomized controlled trials as topic,0.01609534016337668,Chunhua Weng
+records,0.10140064302927307,Chunhua Weng
+registries,0.009657204098026007,Chunhua Weng
+regression analysis,0.006438136065350672,Chunhua Weng
+reproducibility of results,0.017704874179714346,Chunhua Weng
+reproduction,0.004828602049013003,Chunhua Weng
+reproductive and urinary physiological phenomena,0.004828602049013003,Chunhua Weng
+reproductive physiological phenomena,0.004828602049013003,Chunhua Weng
+research design,0.06760042868618205,Chunhua Weng
+research personnel,0.011266738114363675,Chunhua Weng
+retrospective studies,0.01609534016337668,Chunhua Weng
+"ribonuclease, pancreatic",0.003219068032675336,Chunhua Weng
+ribonucleases,0.003219068032675336,Chunhua Weng
+risk,0.01448580614703901,Chunhua Weng
+risk factors,0.009657204098026007,Chunhua Weng
+rna,0.004828602049013003,Chunhua Weng
+rna viruses,0.009657204098026007,Chunhua Weng
+"rna, antisense",0.004828602049013003,Chunhua Weng
+"rna, messenger",0.003219068032675336,Chunhua Weng
+"rna, small untranslated",0.004828602049013003,Chunhua Weng
+"rna, untranslated",0.004828602049013003,Chunhua Weng
+roc curve,0.003219068032675336,Chunhua Weng
+rodentia,0.006438136065350672,Chunhua Weng
+sars-cov-2,0.009657204098026007,Chunhua Weng
+scholarly communication,0.009657204098026007,Chunhua Weng
+schools,0.006438136065350672,Chunhua Weng
+search engine,0.006438136065350672,Chunhua Weng
+semantics,0.025752544261402686,Chunhua Weng
+sensitivity and specificity,0.009657204098026007,Chunhua Weng
+sequence analysis,0.004828602049013003,Chunhua Weng
+serial publications,0.003219068032675336,Chunhua Weng
+severe acute respiratory syndrome-related coronavirus,0.009657204098026007,Chunhua Weng
+"social control, formal",0.02253347622872735,Chunhua Weng
+social networking,0.011266738114363675,Chunhua Weng
+social sciences,0.0498955545064677,Chunhua Weng
+sociological factors,0.003219068032675336,Chunhua Weng
+sociology,0.027362078277740353,Chunhua Weng
+software,0.040238350408441696,Chunhua Weng
+software design,0.004828602049013003,Chunhua Weng
+specialty uses of chemicals,0.006438136065350672,Chunhua Weng
+statistics as topic,0.04828602049013003,Chunhua Weng
+subject headings,0.003219068032675336,Chunhua Weng
+sugars,0.004828602049013003,Chunhua Weng
+"surgical procedures, operative",0.004828602049013003,Chunhua Weng
+surveys and questionnaires,0.01609534016337668,Chunhua Weng
+systematized nomenclature of medicine,0.012876272130701343,Chunhua Weng
+systems analysis,0.006438136065350672,Chunhua Weng
+technology,0.006438136065350672,Chunhua Weng
+"technology, industry, and agriculture",0.011266738114363675,Chunhua Weng
+terminology as topic,0.012876272130701343,Chunhua Weng
+therapeutic uses,0.006438136065350672,Chunhua Weng
+therapeutics,0.03219068032675336,Chunhua Weng
+thinking,0.003219068032675336,Chunhua Weng
+time,0.004828602049013003,Chunhua Weng
+"translational research, biomedical",0.012876272130701343,Chunhua Weng
+treatment adherence and compliance,0.003219068032675336,Chunhua Weng
+treatment outcome,0.004828602049013003,Chunhua Weng
+"tumor cells, cultured",0.004828602049013003,Chunhua Weng
+unified medical language system,0.019314408196052013,Chunhua Weng
+universities,0.004828602049013003,Chunhua Weng
+unsupervised machine learning,0.003219068032675336,Chunhua Weng
+untranslated regions,0.003219068032675336,Chunhua Weng
+user-computer interface,0.017704874179714346,Chunhua Weng
+viruses,0.009657204098026007,Chunhua Weng
+vital statistics,0.003219068032675336,Chunhua Weng
+"vocabulary, controlled",0.04667648647379237,Chunhua Weng
+wearable electronic devices,0.003219068032675336,Chunhua Weng
+web browser,0.003219068032675336,Chunhua Weng
+workflow,0.004828602049013003,Chunhua Weng
+writing,0.009657204098026007,Chunhua Weng
+young adult,0.017704874179714346,Chunhua Weng

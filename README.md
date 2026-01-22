@@ -30,15 +30,41 @@ python 01_filter_publications.py "data/input_sample/Chunhua Weng.json" "Chunhua 
 
 This filters publications and outputs `data/output_sample/preprocess/filtered_publications.csv`.
 
-### Step 2: Run the Pipeline
+### Step 2: Generate Research Profiles
+
+**Option A: Command Line (Recommended)**
+
+```bash
+python 02_generate_research_profiles.py --api-key YOUR_OPENAI_API_KEY --input data/output_sample/preprocess/filtered_publications.csv
+```
+
+Full options:
+```bash
+python 02_generate_research_profiles.py \
+    --api-key YOUR_OPENAI_API_KEY \
+    --input data/output_sample/preprocess/filtered_publications.csv \
+    --output results/final_result
+```
+
+**Option B: Jupyter Notebook**
 
 1. Open `02_generate_research_profiles.ipynb`
-2. Enter your OpenAI API key in the third cell
+2. Enter your OpenAI API key in the configuration cell
 3. Run all cells
 
 ### Step 3: View Results
 
-Final output: `results/intermediate_result/Research_summary_byMesh.xlsx`
+Final output: `results/final_result/Research_summary_byMesh.xlsx`
+
+## Command Line Arguments
+
+| Argument | Required | Default | Description |
+|----------|----------|---------|-------------|
+| `--api-key` | Yes | - | OpenAI API key |
+| `--input`, `-i` | No | `data/output_sample/preprocess/filtered_publications.csv` | Input CSV file |
+| `--output`, `-o` | No | `results/final_result` | Output directory |
+| `--mesh-tree` | No | `data/reference_files/mesh_tree_hierarchy.bin` | MeSH tree file |
+| `--class-file` | No | `data/reference_files/mesh_category_classification.xlsx` | Category classification file |
 
 ## Input Format
 
@@ -67,18 +93,26 @@ Prepare a JSON file with publications, such a metadata and data format can be di
         ],
         "Journal": "Journal Name",
         "PubDate": "2026"
-    },
+    }
+]
 ```
 
 ## Project Structure
 
 ```
-├── 01_filter_publications.py          # Step 1: Filter publications by author position
-├── 02_generate_research_profiles.ipynb # Step 2: Main pipeline
-├── mesh_tree_hierarchy.bin            # MeSH tree hierarchy
-├── mesh_category_classification.xlsx  # Health/Methods classification
-├── data/                              # Input/output samples
-└── results/intermediate_result/       # Pipeline outputs
+├── 01_filter_publications.py              # Step 1: Filter publications by author position
+├── 02_generate_research_profiles.py       # Step 2: Main pipeline (command line)
+├── 02_generate_research_profiles.ipynb    # Step 2: Main pipeline (notebook)
+├── requirements.txt                       # Python dependencies
+├── data/
+│   ├── input_sample/                      # Sample input JSON files
+│   ├── output_sample/                     # Preprocessed output
+│   └── reference_files/                   # MeSH tree and classification files
+│       ├── mesh_tree_hierarchy.bin
+│       └── mesh_category_classification.xlsx
+└── results/
+    └── final_result/                      # Final generated profiles
+        └── Research_summary_byMesh.xlsx
 ```
 
 ## Citation

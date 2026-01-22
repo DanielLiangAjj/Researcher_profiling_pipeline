@@ -2,84 +2,86 @@
 
 ## Overview
 
-This repository contains the official implementation of the pipeline described in the paper **"Scalable Scientific Interest Profiling Using Large Language Models"**.
+This repository contains the official implementation of the pipeline described in the paper **"Scalable Scientific Interest Profiling Using Large Language Models"** (Journal of Biomedical Informatics, 2025).
 
-Research profiles are essential for talent discovery and collaboration but are often outdated or incomplete on major platforms. This tool addresses this gap by providing an automated, scalable pipeline that generates narrative scientific interest profiles for researchers.
-
-By leveraging **GPT-4o-mini**, this system requires user input of researchers' names and revelant publications (titles, abstracts, and MeSH terms) as input to create up-to-date, comprehensive research summaries.
+The pipeline automatically generates narrative research profiles for scientists by analyzing their publications and MeSH terms using GPT-4o.
 
 ## Key Features
 
-  * **Smart Filtering:** Prioritizes relevant work by filtering for publications from the last decade where the researcher is a primary contributor (first three or senior author).
-  * **Dual Profiling Strategies:**
-      * **MeSH-based Profiling:** Generates summaries using Medical Subject Headings (MeSH), and MeSH Term tree climb to automatically fill up revelant terms, to circumvent context window limits and focus on key semantic concepts.
-      * **Abstract-based Profiling:** Uses a "Divide-and-Conquer" approach combined with Latent Dirichlet Allocation (LDA) to summarize vast amounts of abstract text.
-
-## Methodology
-
-The pipeline operates in two main stages:
-
-1.  **Data Collection:**
-Requires user input of
-      * researcher metadata (name, affiliation).
-      * Retrieves publication records (Titles, Abstracts, MeSH terms) via NIH Entrez E-utilities.
-      * Filters for significant contributions (first/last 3 authors).
-
-2.  **Profile Generation (LLM):**
-
-      * Utilizes **GPT-4o-mini** for text generation.
-      * **Prompt Engineering:** Adopts specific personas (e.g., "Dean of a college") to ensure professional and consistent summaries.
-      * **Handling Long Contexts:** For researchers with extensive bibliographies, LDA topic modeling groups publications before summarization to fit token limits.
+* **Smart Filtering:** Keeps publications where the researcher is a primary contributor (first/last 3 author positions)
+* **MeSH-based Profiling:** Expands MeSH terms through the hierarchy and uses TF-IDF to identify distinctive research themes
+* **Dual Summaries:** Generates separate profiles for Health Domain focus and Methodological contributions
 
 ## Installation
 
-### Prerequisites
-
-  * Python 3.8+
-  * OpenAI API Key
-  * PubMed API Key (optional but recommended for higher rate limits)
-
-### Dependencies
-
-Install the required packages:
-
 ```bash
-pip install openai numpy scikit-learn nltk torch bert-score
+pip install -r requirements.txt
 ```
 
-## Usage
+**Requirements:** Python 3.8+, OpenAI API Key
 
-Please provide three input fields as a key-value dictionary into the pipeline:
+## Quick Start
 
-1. OpenAI API Key
-2. Researcher Name
-3. Publication Record (a key-value pair, please see the data/input_sample/Chunhua Weng.json for the detailed format)
+### Step 1: Preprocess Publications
 
+```bash
+python 01_filter_publications.py "data/input_sample/Chunhua Weng.json" "Chunhua Weng"
+```
 
+This filters publications and outputs `data/output_sample/preprocess/filtered_publications.csv`.
 
+### Step 2: Run the Pipeline
+
+1. Open `02_generate_research_profiles.ipynb`
+2. Enter your OpenAI API key in the third cell
+3. Run all cells
+
+### Step 3: View Results
+
+Final output: `results/intermediate_result/Research_summary_byMesh.xlsx`
+
+## Input Format
+
+Prepare a JSON file with publications (see `data/input_sample/Chunhua Weng.json`):
+
+```json
+[
+  {
+    "PMID": "12345678",
+    "Title": "Paper Title",
+    "MeSH terms": ["Term1", "Term2"],
+    "Authors": [
+      {"First Name": "John", "Last Name": "Doe"}
+    ]
+  }
+]
+```
+
+## Project Structure
+
+```
+├── 01_filter_publications.py          # Step 1: Filter publications by author position
+├── 02_generate_research_profiles.ipynb # Step 2: Main pipeline
+├── mesh_tree_hierarchy.bin            # MeSH tree hierarchy
+├── mesh_category_classification.xlsx  # Health/Methods classification
+├── data/                              # Input/output samples
+└── results/intermediate_result/       # Pipeline outputs
+```
 
 ## Citation
 
-If you use this code or methodology in your research, please cite the original paper:
-
-```
+```bibtex
 @article{Liang2025Scalable,
   title   = {Scalable scientific interest profiling using large language models},
   author  = {Liang, Y. and Zhang, G. and Sun, E. and Idnay, B. and Fang, Y. and Chen, F. and Ta, C. and Peng, Y. and Weng, C.},
   journal = {Journal of Biomedical Informatics},
   year    = {2025},
-  month   = dec,
   volume  = {172},
   pages   = {104949},
-  doi     = {10.1016/j.jbi.2025.104949},
-  pmid    = {41177243},
-  pmcid   = {PMC12705189}
+  doi     = {10.1016/j.jbi.2025.104949}
 }
-
 ```
-
-
 
 ## Acknowledgments
 
-This work was supported by the National Center for Advancing Translational Sciences (NCATS) and the National Library of Medicine (NLM)
+This work was supported by the National Center for Advancing Translational Sciences (NCATS) and the National Library of Medicine (NLM).

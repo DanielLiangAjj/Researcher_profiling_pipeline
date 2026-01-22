@@ -42,19 +42,32 @@ Final output: `results/intermediate_result/Research_summary_byMesh.xlsx`
 
 ## Input Format
 
-Prepare a JSON file with publications (see `data/input_sample/Chunhua Weng.json`):
+Prepare a JSON file with publications, such a metadata and data format can be directly fetched via PubMed API (see `data/input_sample/Chunhua Weng.json`):
 
 ```json
 [
-  {
-    "PMID": "12345678",
-    "Title": "Paper Title",
-    "MeSH terms": ["Term1", "Term2"],
-    "Authors": [
-      {"First Name": "John", "Last Name": "Doe"}
-    ]
-  }
-]
+    {
+        "PMID": "12345678",
+        "Title": "Paper Title",
+        "Abstract": "Paper Abstract.",
+        "Keywords": [
+            "keyword1",
+            "keyword2"
+        ],
+        "MeSH terms": [
+            "MeSH Term1",
+            "MeSH Term2"
+        ],
+        "Authors": [
+            {
+                "First Name": "John",
+                "Last Name": "Doe",
+                "Affiliation": "Institute Name"
+            }
+        ],
+        "Journal": "Journal Name",
+        "PubDate": "2026"
+    },
 ```
 
 ## Project Structure
